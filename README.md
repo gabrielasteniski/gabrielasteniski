@@ -1,5 +1,5 @@
-- 👋 
-- 👀 
-- 🌱 
-- 💞️ 
+- 👋 Me chamo Gabriela Steniski, sou aluna do Colégio Estadual São Mateus 
+- 👀 Meu contato profissional é gabriela.steniski@escola.pr.pr.gov.br
+- 🌱 tenho interesse em novas línguas de programação, criar e desenvolver projetos com o meu professor da disciplina de pensamento computacional com meus colegas 
+- 💞️ atualmente estou criando jogas no SCRATCH   e pretendo criar e desenvolver uma página html na web
 - 📫 
